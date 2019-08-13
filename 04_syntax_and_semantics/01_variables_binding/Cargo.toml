@@ -1,5 +1,5 @@
 [package]
-name = "syntax_and_semantics"
+name = "01_variables_binding"
 version = "0.1.0"
 authors = ["Kanatani28 <5genbassnohito.maroro0208@gmail.com>"]
 
