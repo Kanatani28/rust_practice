@@ -1,0 +1,6 @@
+[package]
+name = "04_comments"
+version = "0.1.0"
+authors = ["Kanatani28 <5genbassnohito.maroro0208@gmail.com>"]
+
+[dependencies]
